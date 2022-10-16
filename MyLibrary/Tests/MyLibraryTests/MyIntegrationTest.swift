@@ -17,6 +17,7 @@ final class MyIntegrationTest: XCTestCase {
         // Then
         // Check the temperature is what you expect
         
+        // origin/wonjong/add-tests
         XCTAssertEqual(temp, 83)
     }
 }
